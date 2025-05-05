@@ -1,3 +1,5 @@
 #!/usr/bin/env python3
-
-print(hello_world)
+def name():
+    name = 'hello_world'
+    return name
+print(name)
